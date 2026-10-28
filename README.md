@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Sahil 👋
+Software engineer focused on **Python backend, REST API integrations, and automation**.
+Two years of freelance delivery for telecom, retail, and audit clients.
 
-<!--
-**SahilReza26/SahilReza26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech
+**Languages:** Python, Dart, SQL
+**Backend & APIs:** REST, FastAPI/Flask, MCP servers
+**Cloud & Data:** Azure Data Factory
+**Mobile:** Flutter
+**Automation:** Automation Anywhere A360
 
-Here are some ideas to get you started:
+### 🚀 Featured projects
+- **[Kibo]**: AI nutrition tracker (Flutter + Gemini + Health Connect)
+- **[MCP Server Template]**: reusable Python MCP server with auth, logging, tool auto-registration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me
+[LinkedIn]([https://www.linkedin.com/in/sahil-reja/]) · sahilreza26@email.com
